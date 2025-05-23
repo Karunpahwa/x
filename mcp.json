@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ui-helper-ai": {
+      "command": "node",
+      "args": ["mcp-ui-helper.js"],
+      "env": {
+        "OPENAI_API_KEY": "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",
+        "OPENAI_MODEL": "gpt-4",
+        "DEFAULT_TEMPERATURE": "0.3"
+      }
+    }
+  }
+}
